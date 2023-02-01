@@ -1,0 +1,15 @@
+{
+  "name": "image-sharp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "img4training.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cpt-sugiura",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^1.0.2",
+    "sharp": "^0.31.3"
+  }
+}
